@@ -1,0 +1,7 @@
+INFO:root:A New Log came
+INFO:root:Log is Recorded
+INFO:root:A New Log came
+INFO:root:Log is Recorded
+INFO:root:A New Log came
+INFO:root:Log is Recorded
+INFO:root:A New Log came
